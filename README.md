@@ -1,4 +1,3 @@
-I have made this frontend code in a hurry as I am busy with my office work.
 
 1. HTML
 2. CSS
